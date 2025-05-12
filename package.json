@@ -1,0 +1,195 @@
+{
+    "1004592491": {
+        "tries": 0,
+        "unlimited": false
+    },
+    "1389462512": {
+        "tries": 0,
+        "unlimited": false
+    },
+    "1401075302": {
+        "tries": 100,
+        "unlimited": false
+    },
+    "1612119998": {
+        "tries": 0,
+        "unlimited": false
+    },
+    "1767700711": {
+        "tries": 0,
+        "unlimited": false
+    },
+    "8132098086": {
+        "tries": 0,
+        "unlimited": true
+    },
+    "8142568308": {
+        "tries": 60,
+        "unlimited": true,
+        "time": 120
+    },
+    "6202488387": {
+        "tries": 0,
+        "unlimited": true,
+        "time": 90
+    },
+    "5275570404": {
+        "tries": 0,
+        "unlimited": false
+    },
+    "7292469628": {
+        "tries": 0,
+        "unlimited": false
+    },
+    "5976576140": {
+        "tries": 0,
+        "unlimited": true
+    },
+    "7498522872": {
+        "tries": 0,
+        "unlimited": false
+    },
+    "5500577174": {
+        "tries": 0,
+        "unlimited": false
+    },
+    "5149381446": {
+        "tries": 60,
+        "unlimited": false
+    },
+    "5728937948": {
+        "tries": 0,
+        "unlimited": false
+    },
+    "7721852975": {
+        "tries": 0,
+        "unlimited": false
+    },
+    "5690144457": {
+        "tries": 513,
+        "unlimited": false
+    },
+    "6083938306": {
+        "tries": 0,
+        "unlimited": false
+    },
+    "6552946266": {
+        "tries": 0,
+        "unlimited": true,
+        "time": 30
+    },
+    "5647094617": {
+        "tries": 90,
+        "unlimited": false
+    },
+    "5352565197": {
+        "tries": 0,
+        "unlimited": true
+    },
+    "7793837735": {
+        "tries": 0,
+        "unlimited": false
+    },
+    "6489139682": {
+        "tries": 0,
+        "unlimited": false
+    },
+    "5872019506": {
+        "tries": 0,
+        "unlimited": true,
+        "time": 60
+    },
+    "8092018971": {
+        "tries": 0,
+        "unlimited": true
+    },
+    "6052263488": {
+        "tries": 0,
+        "unlimited": true
+    },
+    "7008039227": {
+        "tries": 0,
+        "unlimited": false
+    },
+    "6292430599": {
+        "tries": 0,
+        "unlimited": false
+    },
+    "6408548298": {
+        "tries": 0,
+        "unlimited": true,
+        "time": 120
+    },
+    "5602190393": {
+        "tries": 0,
+        "unlimited": false
+    },
+    "6200664944": {
+        "tries": 150,
+        "unlimited": false
+    },
+    "8182993466": {
+        "tries": 0,
+        "unlimited": false
+    },
+    "6696303197": {
+        "tries": 0,
+        "unlimited": false
+    },
+    "7197871018": {
+        "tries": 0,
+        "unlimited": false
+    },
+    "5712838403": {
+        "tries": 0,
+        "unlimited": false
+    },
+    "7896149920": {
+        "tries": 0,
+        "unlimited": false
+    },
+    "6700230562": {
+        "tries": 0,
+        "unlimited": false
+    },
+    "7603364111": {
+        "tries": 0,
+        "unlimited": false
+    },
+    "5385172582": {
+        "tries": 0,
+        "unlimited": true
+    },
+    "6052402450": {
+        "tries": 0,
+        "unlimited": false
+    },
+    "7607319784": {
+        "tries": 0,
+        "unlimited": false
+    },
+    "5713587156": {
+        "tries": 0,
+        "unlimited": false
+    },
+    "5573851983": {
+        "tries": 0,
+        "unlimited": false
+    },
+    "7455123407": {
+        "tries": 0,
+        "unlimited": false
+    },
+    "5412334631": {
+        "tries": 0,
+        "unlimited": false
+    },
+    "5547389058": {
+        "tries": 0,
+        "unlimited": false
+    },
+    "dependencies": {
+        "discord": "^0.8.2",
+        "dotenv": "^16.5.0"
+    }
+}
